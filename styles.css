@@ -82,6 +82,11 @@ a:active{
     margin-bottom: 5px;
 }
 
+.subcard{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .list {
      padding: 10px 20px;
 }
@@ -97,4 +102,8 @@ a:active{
 
 .table {
     width: 100%;
+}
+
+.about p {
+    padding-left: 10px;
 }
